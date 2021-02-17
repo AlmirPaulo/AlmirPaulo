@@ -1,6 +1,6 @@
 ### Hi, I am Almir Paulo 👋
 
-- 🔭 I’m currently working on: Python bots (ethically) and web pages with HTML, CSS and [Brython](https://brython.info/).
+- 🔭 I’m currently working on: Automation with Python.
 - 🌱 I’m currently learning: I.A., Machine Learning and Data Science. 
 - 👯 I’m looking to collaborate on: Open Source Community.
 - 💬 Ask me about: Freelance Jobs.
